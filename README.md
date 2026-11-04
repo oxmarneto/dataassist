@@ -190,7 +190,6 @@ assistente-virtual-ia/
 | **Ollama**      | Execução local do modelo de linguagem              |
 | **Qwen 2.5 3B** | Modelo de linguagem                                |
 | **Markdown**    | Armazenamento da base de conhecimento              |
-| **Regex**       | Identificação e validação de termos                |
 
 ---
 
@@ -309,8 +308,8 @@ Conteúdos atuais:
 ### 1. Clonar o projeto
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd assistente-virtual-ia
+git clone https://github.com/oxmarneto/dataassist.git
+cd dataassist
 ```
 
 ### 2. Criar o ambiente virtual
@@ -370,25 +369,25 @@ http://localhost:8501
 
 ## 🧪 Exemplos de utilização
 
-### Power BI
+### 💡 Pergunta de exemplo — Power BI
 
 ```text
 O que é uma tabela fato?
 ```
 
-### Exemplo: SQL
+### 💡 Pergunta de exemplo — SQL
 
 ```text
 Como funciona o CASE WHEN?
 ```
 
-### Exemplo: Excel
+### 💡 Pergunta de exemplo — Excel
 
 ```text
 Como funciona o PROCX?
 ```
 
-### Exemplo: Python
+### 💡 Pergunta de exemplo — Python
 
 ```text
 O que é um DataFrame?
