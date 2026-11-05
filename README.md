@@ -22,6 +22,10 @@ Para isso, o DataAssist possui uma camada de validação implementada em Python 
 
 ---
 
+## 🖥️ Demonstração
+
+![DataAssist](assets/dataassist.png)
+
 ## 💡 Principais funcionalidades
 
 ### 📚 Base de conhecimento
